@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Victor-Pascon/Victor-Pascon/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">My Social Networks</h1>
 
 ###
